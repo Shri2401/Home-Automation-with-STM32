@@ -1,0 +1,4 @@
+../Core/Src/ldr.c:27:6:ldr_pwm	16	static
+../Core/Src/ldr.c:45:6:ldr_off	4	static
+../Core/Src/ldr.c:49:6:ldr_on	4	static
+../Core/Src/ldr.c:53:6:ldr_sleep	16	static

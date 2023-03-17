@@ -1,0 +1,4 @@
+../Core/Src/dht11.c:45:6:microDelay	16	static
+../Core/Src/dht11.c:58:9:DHT11_Start	32	static
+../Core/Src/dht11.c:95:9:DHT11_Read	16	static
+../Core/Src/dht11.c:123:6:fan_control_dht	24	static
