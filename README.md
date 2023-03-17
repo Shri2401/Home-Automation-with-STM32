@@ -15,12 +15,14 @@ awake the whole time. This helps in energy saving.
 
 The project is based on a Bluetooth automated controlled system where a user could
 control various devices based on his mood using a mobile app. This system has the
-following settings:
-● Auto settings
-● Predefined settings:
-▪ Sleep settings
-▪ Day-light settings
-▪ Work settings
+following settings:</br>
+
+                          ● Auto settings
+                          ● Predefined settings:
+                              ▪ Sleep settings
+                              ▪ Day-light settings
+                              ▪ Work settings
+                              
 If the user chooses to use the auto settings from the mobile app, it will give all control
 to the MCU. It will regulate all devices based on the data collected by various sensors.
 For example, using the data like temperature and light intensity, set the device
